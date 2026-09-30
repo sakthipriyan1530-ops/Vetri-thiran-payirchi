@@ -1,8 +1,8 @@
 # Phase 8: Project Demonstration
 
 ## Demonstration Deliverables
-- **Live Application URL:* http://127.0.0.1:8000*
-- **Project Demonstration Video:*https://drive.google.com/file/d/1iS2TuyfcDptSD0AyIMPvldJM0_UTwqbh/view?usp=drivesdk* ]
+- **Live Application URL:* http://127.0.0.1:8000/ *
+- **Project Demonstration Video:*https://drive.google.com/file/d/1SDhxtjcQnOQO0KNuxsyXzfEpydSzf5RF/view?usp=drivesdk* ]
 
 ## Video Walkthrough Outline
 1. **Introduction:** Presentation of team members and project title (*PocketSmart AI*).
