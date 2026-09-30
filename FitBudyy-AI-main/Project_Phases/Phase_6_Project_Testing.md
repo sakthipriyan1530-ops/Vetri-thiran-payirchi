@@ -8,8 +8,8 @@
 
 
 
-- Date: 29 September 2026
-- Team ID: 06
+- Date: 30 September 2026
+- Team ID: 12
 - Project Name: FitBuddy – AI Fitness Plan Generator using Gemini Models
 - Maximum Marks: 3 Marks
 
@@ -19,7 +19,7 @@
 
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
-| 1 | Ponnurangam M| Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 06 |
-| 2 | Saran R| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 06 |
-| 3 | Sanjay Kumar  | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 06 |
-|4 |Vishnu S  | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 06 |
+| 1 | G D Gayathri| Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 12 |
+| 2 | E Arthi| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 12 |
+| 3 | K Mohana priya  | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 12|
+
