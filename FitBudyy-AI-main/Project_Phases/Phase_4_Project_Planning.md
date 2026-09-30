@@ -26,6 +26,6 @@
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
 | 1 | G D Gayathri| Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 12 |
-| 2 E Arthi| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 12 |
+| 2 | E Arthi| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 12 |
 | 3 | K Mohana priya | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 12 |
 
